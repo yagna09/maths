@@ -28,17 +28,17 @@ Matplotlib
 Seaborn
 SciPy
 Analysis Performed
-1. Central Tendency
+# 1. Central Tendency
 Mean: Average income
 Median: Middle value
 Mode: Most frequent value
-2. Dispersion
+# 2. Dispersion
 Range: Difference between max and min
 Variance: Spread of data
 Standard Deviation: Square root of variance
-3. Distribution
+# 3. Distribution
 Histogram to visualize income distribution
 Gaussian curve for normal distribution
-4. Visualization
+# 4. Visualization
 Boxplot (Area vs Income)
 Scatter plot (Age vs Income)
